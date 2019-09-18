@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/vulongkm/node_pk_first/_apis/build/status/LPhongKhoang.react-cicd-azure?branchName=master)](https://dev.azure.com/vulongkm/node_pk_first/_build/latest?definitionId=4&branchName=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
